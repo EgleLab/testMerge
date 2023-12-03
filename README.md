@@ -1,2 +1,2 @@
-Hello this is me, Santa!
+remote
 How are you?
